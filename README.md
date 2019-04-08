@@ -1,2 +1,3 @@
-# -
-学习入门
+# hello world
+
+this is one day learn Python？
